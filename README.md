@@ -1,4 +1,5 @@
 # Instruções 
 
-1. Tenha um emulador android instalado
-2. Basta ir no VS Code com o plugin dart instalado, selecionar o projeto, abrir  arquivo main.dart e clicar em play. Se preferir, pode utilizar o Android Studio.
+1. Tenha um emulador android instalado.
+2. Execute o commando "flutter packages upgrade" no diretório do projeto.
+3. Abra o VS Code com o plugin dart instalado ou o Android Studio, selecione o projeto, abra  arquivo main.dart e clique em play.
